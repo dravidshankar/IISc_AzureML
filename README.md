@@ -24,7 +24,7 @@ Data description is available here: https://archive.ics.uci.edu/ml/datasets/Burs
 5.	Split the Data: Split the data into a training set and a validation set. 
 6.	Train the model: Select suitable ML algorithms and train the model
 7.	Evaluation Measures: Measures such as accuracy, mean recall score, and mean precision should be computed to evaluate the classifier's performance.
-8.	Deploy the model: Deploy the model for performing real-time and batch inferencing.
+8.	Deploy the model: Deploy the model for performing real-time inferencing.
 9.	Upload the results into the google form link provided below.
 
 
