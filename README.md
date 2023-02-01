@@ -13,7 +13,7 @@ Detailed steps to build Classification Model with Azure Machine Learning Designe
 
 ### Expected Solution/Approach:
 1.	Data Collection and Dataset Preparation: The dataset may be downloaded from the following URL:
-https://drive.google.com/drive/folders/1WvoU4-A8UpLmKt83aNCoITCSUzWyraek?usp=share_link
+https://drive.google.com/file/d/1lwiUwCflAjqFyEdVbT6-rDW5q3VVddJf/view?usp=share_link
 
 2.	Data Preparation: Perform the necessary data cleaning(if required)
 3.	Feature Selection: Select the required columns after doing an analysis.
