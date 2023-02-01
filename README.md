@@ -5,7 +5,7 @@ Detailed steps to build Classification Model with Azure Machine Learning Designe
 
 
 ## Competition Details
-### Burst Header Packet Flood Detection in Optical Burst Switching Network using AzureML Designer
+### Packet Flood Detection in Switching Network using AzureML Designer
 
 ### Problem Statement
 
