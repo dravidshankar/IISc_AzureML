@@ -3,6 +3,8 @@
 
 Detailed steps to build Classification Model with Azure Machine Learning Designer: https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html
 
+Classification Algorithm Cheatsheet : https://learn.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
+
 
 ## Competition Details
 ### Packet Flood Detection in Switching Network using AzureML Designer
